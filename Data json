@@ -1,0 +1,14 @@
+[
+  {
+    "triggerMessages": ["hi", "hello", "hey", "greetings"],
+    "audioUrl": "https://github.com/rcd-git-hub-official/status-send-raw-list/raw/refs/heads/main/welcome.mp3"
+  },
+  {
+    "triggerMessages": ["good morning", "gm", "ගුඩ් මොනිම්", "awesome"],
+    "audioUrl": "https://github.com/DEXTER-ID-PROJECT/VOICE-/raw/refs/heads/main/Voice-clip/good%20morning%20.mp3"
+  },
+  {
+    "triggerMessages": ["bye", "බායි", "good bye", "take care"],
+    "audioUrl": "https://github.com/DEXTER-ID-PROJECT/VOICE-/raw/refs/heads/main/Voice-clip/bye.mp3"
+  }
+]
